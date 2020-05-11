@@ -1,0 +1,15 @@
+.header {
+  background-color: pink;
+  color: #000;
+  height: 250px;
+}
+
+body {
+  margin: 0;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+body img {
+  height: auto;
+}

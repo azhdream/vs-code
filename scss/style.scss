@@ -1,0 +1,32 @@
+@import  "_header";
+
+
+body {
+    margin: 0;
+    font-size: 20px;
+    font-family:  Arial;
+    img{
+        height:  auto;
+    }
+}
+.block {
+
+    &__item {
+    }
+
+    &__heading {
+    }
+
+    &__item--type-1 {
+    }
+}
+.block__item {
+}
+.block__heading {
+}
+.block__item--type-1 {
+}
+
+.red{
+    color: red;
+}
